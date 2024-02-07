@@ -1,0 +1,4 @@
+Employee Name    Salary
+A                6000
+B                8000
+C                5000   

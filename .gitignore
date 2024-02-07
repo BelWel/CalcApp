@@ -1,0 +1,2 @@
+# ignore all text and idea files
+*.txt, calcApp\.idea, calcApp\venv 
